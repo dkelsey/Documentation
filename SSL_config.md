@@ -64,8 +64,8 @@ Use the following settings:
 
 | Route field    | Created secret          | Source file                      |
 | -------------- | ----------------------- |--------------------------------- |
-| Certificate    | certificate             | NAME.ca.txt            | 
-| Private Key    | private-key             | NAME.key            | 
+| Certificate    | certificate             | NAME.txt                         | 
+| Private Key    | private-key             | NAME.key                         | 
 | CA Certificate | ca-chain-certificate    | L1K-for-certs.txt                | 
 
 
